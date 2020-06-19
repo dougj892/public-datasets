@@ -17,3 +17,7 @@ ASER data comes from table 5 of the ASER reports. NAS data comes from [this page
 ## State GDP per capita
 
 Figures obtained from the RBI website.
+
+## aser_district_all_6
+
+ASER district data from 2006 to 2011. (ASER stopped releasing district figures as separate Excel files after 2011.) The dataset only contains data for the 406 districts for which I was able to get all 6 years of data.  It also only includes those variables which are available for each year.
